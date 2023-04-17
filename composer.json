@@ -1,0 +1,16 @@
+{
+    "name": "smysh/validator",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Smysh\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniil Smyshlyaev",
+            "email": "smyshlyeavar@gmail.com"
+        }
+    ],
+    "require": {}
+}
